@@ -1,0 +1,21 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+
+section {
+    display: table;
+    width: 450px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+}
+
+h1 {
+    margin: auto;
+}
+
